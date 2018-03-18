@@ -1,0 +1,15 @@
+<form action="nationality.php" method="post">
+		      <div class="modal-body">
+			      <div class="row container-fluid">
+							<div class="col-md-3 col-md-offset-1 form-group">
+								<div class="form-inline">
+									<input type="text" class="form-control" name="name" placeholder="Nationality">
+								</div>
+							</div>
+						</div>
+		      </div>
+		      <div class="modal-footer">
+                <button type="submit" class="btn btn-success">Submit</button>
+		        <button type="button" class="btn btn-danger" data-dismiss="modal">Cancel</button>
+		      </div>
+ </form>
